@@ -1,9 +1,16 @@
 Rails.application.routes.draw do
+
+  get 'temp4/a1'
+
+  get 'temp3/a1'
+
+  get 'temp2/a1'
+
+  get 'temp1/a1'
+
   get 'templates/temp1'
 
   get 'templates/temp2'
-
-  get 'templates/temp3'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
