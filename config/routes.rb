@@ -6,6 +6,8 @@ Rails.application.routes.draw do
 
   get 'temp2/a1'
 
+  get 'temp3/a1'
+
   get 'temp1/a1'
 
   get 'templates/temp1'
